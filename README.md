@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
+| [0184-department-highest-salary](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 ## String
 |  |
 | ------- |
