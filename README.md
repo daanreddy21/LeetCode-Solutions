@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2540-minimum-common-value](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2540-minimum-common-value](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Database
