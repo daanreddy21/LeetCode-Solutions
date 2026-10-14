@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2540-minimum-common-value](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2540-minimum-common-value](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Linked List
 |  |
