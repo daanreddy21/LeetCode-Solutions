@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Database
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
 | ------- |
