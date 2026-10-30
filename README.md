@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1051-height-checker](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1732-find-the-highest-altitude](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [1051-height-checker](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
@@ -177,5 +180,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
