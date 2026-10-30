@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1859-sorting-the-sentence](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2129-capitalize-the-title](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2129-capitalize-the-title) |
 ## Stack
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1051-height-checker](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
@@ -182,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
