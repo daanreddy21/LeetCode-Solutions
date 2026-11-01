@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1859-sorting-the-sentence](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
