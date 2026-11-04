@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0705-design-hashset](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1051-height-checker](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0705-design-hashset](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [1122-relative-sort-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [2540-minimum-common-value](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Two Pointers
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Prefix Sum
 |  |
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
