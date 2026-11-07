@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0912-sort-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1732-find-the-highest-altitude](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1859-sorting-the-sentence](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
@@ -156,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Quicksort
@@ -244,4 +249,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
