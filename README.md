@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
