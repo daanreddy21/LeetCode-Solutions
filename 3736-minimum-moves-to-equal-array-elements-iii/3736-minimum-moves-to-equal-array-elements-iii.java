@@ -3,12 +3,8 @@ class Solution {
         Arrays.sort(nums);
         int count = 0;
         int target = nums[nums.length - 1];
-        for (int i = 0; i < nums.length; i++) {
-            int res = nums[i];
-            while (res < target) {
-                res++;
-                count++;
-            }
+        for (int i = 0; i < nums.length-1; i++) {
+            count = count +(target - nums[i]);
         }
         return count;
     }
