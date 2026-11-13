@@ -7,7 +7,7 @@ class Solution:
         for num in nums:
             map[num]= map.get(num, 0) + 1
         for key, value in map.items():
-            if value > len(nums) // 3 and key not in arr:
+            if value > len(nums) // 3:
                 arr.append(key)
         return arr
         
