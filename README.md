@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0856-score-of-parentheses](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1859-sorting-the-sentence](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0856-score-of-parentheses](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/daanreddy21/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sorting
