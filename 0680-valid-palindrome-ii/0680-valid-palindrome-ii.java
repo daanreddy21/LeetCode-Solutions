@@ -1,13 +1,13 @@
 
 class Solution {
     public boolean validPalindrome(String s) {
-        String s2 = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
+
         int left = 0;
         int right = s.length() - 1;
         while (left < right) {
             if (s.charAt(left) != s.charAt(right)) {
-                return check(s2, left + 1, right) ||
-                       check(s2, left, right - 1);
+                return check(s, left + 1, right) ||
+                       check(s, left, right - 1);
             }
             left++;
             right--;
